@@ -1,3 +1,3 @@
-# Final Electron Workshop App
+# Exercise 8: Dad Jokes!
 
-[Additional Resources](https://github.com/reverentgeek/electron-workshop/wiki/Resources)
+[Exercise 8 Instructions](https://github.com/reverentgeek/electron-workshop/wiki/Exercise-8:-Dad-Jokes!)
